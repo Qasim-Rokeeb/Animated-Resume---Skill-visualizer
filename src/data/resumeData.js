@@ -4,9 +4,9 @@ export const resumeData = {
   summary: "Creative React developer with a passion for clean UI and performance.",
   education: [
     {
-      school: "University of Lagos",
-      degree: "B.Sc Computer Science",
-      year: "2020 - 2024",
+      school: "Federal University of Technology, Akure.",
+      degree: "B.Tech in Software Engineering",
+      year: "2022 - 2027",
     },
   ],
   experience: [
@@ -18,7 +18,7 @@ export const resumeData = {
     },
   ],
   skills: {
-    labels: ["React", "Tailwind CSS", "JavaScript", "Framer Motion", "Git"],
-    values: [90, 85, 80, 75, 70],
+    labels: ["Nextjs", "Typscript", "React", "Tailwind CSS", "JavaScript", "Framer Motion", "Git"],
+    values: [75, 60, 90, 85, 80, 75, 70],
   },
 };

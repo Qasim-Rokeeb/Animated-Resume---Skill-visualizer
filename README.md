@@ -31,8 +31,8 @@ npm run dev
 ```
 
 ## 🌐 Live URL
-<!-- 
-[https://qasimrokeeb-animated-resume-visualizer.vercel.app/](https://qasimrokeeb-animated-resume-visualizer.vercel.app/) -->
+
+[https://animated-resume-visualizer.vercel.app/](https://animated-resume-skill-visualizer.vercel.app/)
 
 ## 📌 What's Next?
 
