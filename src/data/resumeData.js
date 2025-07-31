@@ -11,10 +11,16 @@ export const resumeData = {
   ],
   experience: [
     {
-      company: "TechStudio",
+      company: "Web3Nova",
       role: "Frontend Intern",
-      duration: "Jan 2024 - Jun 2024",
+      duration: "Sep 2024 - Feb 2025",
       description: "Built and maintained responsive UIs using React and Tailwind CSS.",
+    },
+    {
+      company: "Terntribe",
+      role: "Frontend Intern",
+      duration: "June 2025 - Present",
+      description: "Developing user-friendly interfaces with Next.js and TypeScript.",
     },
   ],
   skills: {
