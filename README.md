@@ -19,7 +19,7 @@ An interactive resume builder that lets users visualize their resume with smooth
 
 ## 📸 Preview
 
-![Preview](https://raw.githubusercontent.com/Qasim-Rokeeb/animated-resume-visualizer/main/screenshot.png)
+![Preview](https://raw.githubusercontent.com/Qasim-Rokeeb/Animated-Resume---Skill-visualizer/main/screenshot.png)
 
 ## 🚀 Installation
 
