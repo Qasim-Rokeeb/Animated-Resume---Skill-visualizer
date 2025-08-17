@@ -39,7 +39,9 @@ This project is deployed on [Vercel](https://vercel.com/) — [Live Link](https:
 - Add user input form to customize content
 - Add themes (light/dark)
 - Improve PDF styling
-
+- Improve Fonts Stylings
+- Improve page layout
+  
 ## 🙋‍♂️ About Me
 
 I'm Qasim Rokeeb, on a 30-Day React Relearning Journey.  
