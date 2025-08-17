@@ -30,9 +30,9 @@ npm install
 npm run dev
 ```
 
-## 🌐 Live URL
+## 🌐 Deployment
 
-[https://animated-resume-visualizer.vercel.app/](https://animated-resume-skill-visualizer.vercel.app/)
+This project is deployed on [Vercel](https://vercel.com/) — [Live Link](https://animated-resume-skill-visualizer.vercel.app/)
 
 ## 📌 What's Next?
 
